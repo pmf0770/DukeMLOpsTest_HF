@@ -1,4 +1,3 @@
-# DukeMLOpsTest_HF
 ---
 title: Duke MLOps Test of HF
 emoji: 🚀
